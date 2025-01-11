@@ -1,0 +1,216 @@
+Year: 2024, Month: 0
+Temperature: -0.72727°C, Precipitation: 24.7675 cm
+Grain Height: 20.4253 cm, Number of Deer: 3, Number of Predators: 0
+Year: 2024, Month: 1
+Temperature: 11.4167°C, Precipitation: 24.5626 cm
+Grain Height: 19.1078 cm, Number of Deer: 4, Number of Predators: 0
+Year: 2024, Month: 2
+Temperature: 15.6069°C, Precipitation: 33.868 cm
+Grain Height: 9.42918 cm, Number of Deer: 5, Number of Predators: 0
+Year: 2024, Month: 3
+Temperature: 17.6297°C, Precipitation: 37.5784 cm
+Grain Height: 0 cm, Number of Deer: 4, Number of Predators: 0
+Year: 2024, Month: 4
+Temperature: 25.3249°C, Precipitation: 26.8729 cm
+Grain Height: 0 cm, Number of Deer: 3, Number of Predators: 0
+Year: 2024, Month: 5
+Temperature: 23.5214°C, Precipitation: 22.324 cm
+Grain Height: 0 cm, Number of Deer: 2, Number of Predators: 0
+Year: 2024, Month: 6
+Temperature: 23.4382°C, Precipitation: 12.1634 cm
+Grain Height: 0 cm, Number of Deer: 1, Number of Predators: 0
+Year: 2024, Month: 7
+Temperature: 23.899°C, Precipitation: 4.74655 cm
+Grain Height: 0 cm, Number of Deer: 0, Number of Predators: 0
+Year: 2024, Month: 8
+Temperature: 21.6019°C, Precipitation: 1.53447 cm
+Grain Height: 0.000908624 cm, Number of Deer: 0, Number of Predators: 0
+Year: 2024, Month: 9
+Temperature: 9.99967°C, Precipitation: 7.77638 cm
+Grain Height: 6.9303 cm, Number of Deer: 0, Number of Predators: 0
+Year: 2024, Month: 10
+Temperature: 11.6881°C, Precipitation: 3.46033 cm
+Grain Height: 9.57068 cm, Number of Deer: 1, Number of Predators: 0
+Year: 2024, Month: 11
+Temperature: 8.40399°C, Precipitation: 11.3446 cm
+Grain Height: 20.5334 cm, Number of Deer: 2, Number of Predators: 0
+Year: 2025, Month: 0
+Temperature: 9.96222°C, Precipitation: 26.279 cm
+Grain Height: 26.8058 cm, Number of Deer: 3, Number of Predators: 0
+Year: 2025, Month: 1
+Temperature: 6.19115°C, Precipitation: 33.4182 cm
+Grain Height: 44.1781 cm, Number of Deer: 4, Number of Predators: 0
+Year: 2025, Month: 2
+Temperature: 17.4452°C, Precipitation: 36.1568 cm
+Grain Height: 34.1247 cm, Number of Deer: 5, Number of Predators: 0
+Year: 2025, Month: 3
+Temperature: 23.0139°C, Precipitation: 36.1889 cm
+Grain Height: 21.4251 cm, Number of Deer: 6, Number of Predators: 0
+Year: 2025, Month: 4
+Temperature: 23.9171°C, Precipitation: 33.3646 cm
+Grain Height: 6.18519 cm, Number of Deer: 7, Number of Predators: 0
+Year: 2025, Month: 5
+Temperature: 21.3916°C, Precipitation: 17.443 cm
+Grain Height: 0 cm, Number of Deer: 6, Number of Predators: 0
+Year: 2025, Month: 6
+Temperature: 30.6648°C, Precipitation: 13.9284 cm
+Grain Height: 0 cm, Number of Deer: 5, Number of Predators: 1
+Year: 2025, Month: 7
+Temperature: 24.5146°C, Precipitation: 3.30211 cm
+Grain Height: 0 cm, Number of Deer: 4, Number of Predators: 2
+Year: 2025, Month: 8
+Temperature: 22.9132°C, Precipitation: 3.7648 cm
+Grain Height: 0 cm, Number of Deer: 3, Number of Predators: 2
+Year: 2025, Month: 9
+Temperature: 14.1152°C, Precipitation: 4.2658 cm
+Grain Height: 0 cm, Number of Deer: 2, Number of Predators: 2
+Year: 2025, Month: 10
+Temperature: 9.14328°C, Precipitation: 11.9143 cm
+Grain Height: 6.16383 cm, Number of Deer: 1, Number of Predators: 2
+Year: 2025, Month: 11
+Temperature: 6.17175°C, Precipitation: 11.4766 cm
+Grain Height: 24.1134 cm, Number of Deer: 2, Number of Predators: 1
+Year: 2026, Month: 0
+Temperature: 7.58061°C, Precipitation: 24.2438 cm
+Grain Height: 41.15 cm, Number of Deer: 3, Number of Predators: 0
+Year: 2026, Month: 1
+Temperature: 12.8755°C, Precipitation: 32.6189 cm
+Grain Height: 36.34 cm, Number of Deer: 4, Number of Predators: 0
+Year: 2026, Month: 2
+Temperature: 15.6084°C, Precipitation: 33.1195 cm
+Grain Height: 26.67 cm, Number of Deer: 5, Number of Predators: 0
+Year: 2026, Month: 3
+Temperature: 18.2055°C, Precipitation: 34.3151 cm
+Grain Height: 14.0283 cm, Number of Deer: 6, Number of Predators: 0
+Year: 2026, Month: 4
+Temperature: 22.8103°C, Precipitation: 33.0963 cm
+Grain Height: 0 cm, Number of Deer: 5, Number of Predators: 0
+Year: 2026, Month: 5
+Temperature: 25.0006°C, Precipitation: 18.9393 cm
+Grain Height: 0 cm, Number of Deer: 4, Number of Predators: 1
+Year: 2026, Month: 6
+Temperature: 31.6077°C, Precipitation: 13.636 cm
+Grain Height: 0 cm, Number of Deer: 3, Number of Predators: 1
+Year: 2026, Month: 7
+Temperature: 20.6594°C, Precipitation: 2.68569 cm
+Grain Height: 0 cm, Number of Deer: 2, Number of Predators: 1
+Year: 2026, Month: 8
+Temperature: 16.5359°C, Precipitation: 4.03184 cm
+Grain Height: 0 cm, Number of Deer: 1, Number of Predators: 1
+Year: 2026, Month: 9
+Temperature: 11.8669°C, Precipitation: 7.84468 cm
+Grain Height: 0.632045 cm, Number of Deer: 0, Number of Predators: 1
+Year: 2026, Month: 10
+Temperature: 5.86396°C, Precipitation: 7.01376 cm
+Grain Height: 17.5403 cm, Number of Deer: 0, Number of Predators: 1
+Year: 2026, Month: 11
+Temperature: 3.75449°C, Precipitation: 13.9658 cm
+Grain Height: 42.0482 cm, Number of Deer: 1, Number of Predators: 0
+Year: 2027, Month: 0
+Temperature: -0.617398°C, Precipitation: 23.515 cm
+Grain Height: 52.7239 cm, Number of Deer: 2, Number of Predators: 0
+Year: 2027, Month: 1
+Temperature: 9.7628°C, Precipitation: 29.9796 cm
+Grain Height: 59.4443 cm, Number of Deer: 3, Number of Predators: 0
+Year: 2027, Month: 2
+Temperature: 13.5181°C, Precipitation: 32.1777 cm
+Grain Height: 53.7949 cm, Number of Deer: 4, Number of Predators: 0
+Year: 2027, Month: 3
+Temperature: 19.5782°C, Precipitation: 32.1024 cm
+Grain Height: 43.6519 cm, Number of Deer: 5, Number of Predators: 0
+Year: 2027, Month: 4
+Temperature: 25.5656°C, Precipitation: 26.3603 cm
+Grain Height: 30.9519 cm, Number of Deer: 6, Number of Predators: 0
+Year: 2027, Month: 5
+Temperature: 27.4885°C, Precipitation: 26.0925 cm
+Grain Height: 15.7119 cm, Number of Deer: 7, Number of Predators: 0
+Year: 2027, Month: 6
+Temperature: 25.643°C, Precipitation: 17.6044 cm
+Grain Height: 0 cm, Number of Deer: 6, Number of Predators: 0
+Year: 2027, Month: 7
+Temperature: 23.7556°C, Precipitation: 10.6773 cm
+Grain Height: 0 cm, Number of Deer: 5, Number of Predators: 1
+Year: 2027, Month: 8
+Temperature: 18.2901°C, Precipitation: 0 cm
+Grain Height: 0 cm, Number of Deer: 4, Number of Predators: 2
+Year: 2027, Month: 9
+Temperature: 10.5825°C, Precipitation: 6.05202 cm
+Grain Height: 0 cm, Number of Deer: 3, Number of Predators: 2
+Year: 2027, Month: 10
+Temperature: 13.1226°C, Precipitation: 6.07258 cm
+Grain Height: 0 cm, Number of Deer: 2, Number of Predators: 2
+Year: 2027, Month: 11
+Temperature: 6.97388°C, Precipitation: 10.741 cm
+Grain Height: 12.6756 cm, Number of Deer: 1, Number of Predators: 2
+Year: 2028, Month: 0
+Temperature: 7.21544°C, Precipitation: 20.9267 cm
+Grain Height: 33.1766 cm, Number of Deer: 2, Number of Predators: 0
+Year: 2028, Month: 1
+Temperature: 6.53202°C, Precipitation: 28.6278 cm
+Grain Height: 54.1389 cm, Number of Deer: 3, Number of Predators: 0
+Year: 2028, Month: 2
+Temperature: 16.9947°C, Precipitation: 33.0306 cm
+Grain Height: 46.6881 cm, Number of Deer: 4, Number of Predators: 0
+Year: 2028, Month: 3
+Temperature: 15.5172°C, Precipitation: 32.923 cm
+Grain Height: 37.0538 cm, Number of Deer: 5, Number of Predators: 0
+Year: 2028, Month: 4
+Temperature: 20.4436°C, Precipitation: 31.4333 cm
+Grain Height: 24.361 cm, Number of Deer: 6, Number of Predators: 0
+Year: 2028, Month: 5
+Temperature: 29.1094°C, Precipitation: 23.9481 cm
+Grain Height: 9.12103 cm, Number of Deer: 7, Number of Predators: 0
+Year: 2028, Month: 6
+Temperature: 29.1138°C, Precipitation: 9.83234 cm
+Grain Height: 0 cm, Number of Deer: 6, Number of Predators: 0
+Year: 2028, Month: 7
+Temperature: 26.2924°C, Precipitation: 8.45662 cm
+Grain Height: 0 cm, Number of Deer: 5, Number of Predators: 1
+Year: 2028, Month: 8
+Temperature: 21.0516°C, Precipitation: 2.67236 cm
+Grain Height: 0 cm, Number of Deer: 4, Number of Predators: 2
+Year: 2028, Month: 9
+Temperature: 11.4665°C, Precipitation: 3.33537 cm
+Grain Height: 0 cm, Number of Deer: 3, Number of Predators: 2
+Year: 2028, Month: 10
+Temperature: 7.0926°C, Precipitation: 9.77359 cm
+Grain Height: 9.01272 cm, Number of Deer: 2, Number of Predators: 2
+Year: 2028, Month: 11
+Temperature: 0.598106°C, Precipitation: 18.5489 cm
+Grain Height: 21.4815 cm, Number of Deer: 3, Number of Predators: 1
+Year: 2029, Month: 0
+Temperature: 0.0893148°C, Precipitation: 22.4235 cm
+Grain Height: 30.123 cm, Number of Deer: 4, Number of Predators: 0
+Year: 2029, Month: 1
+Temperature: 4.67807°C, Precipitation: 28.8978 cm
+Grain Height: 49.8176 cm, Number of Deer: 5, Number of Predators: 0
+Year: 2029, Month: 2
+Temperature: 11.3602°C, Precipitation: 34.6392 cm
+Grain Height: 42.7873 cm, Number of Deer: 6, Number of Predators: 0
+Year: 2029, Month: 3
+Temperature: 15.7212°C, Precipitation: 35.1397 cm
+Grain Height: 27.9747 cm, Number of Deer: 7, Number of Predators: 0
+Year: 2029, Month: 4
+Temperature: 24.1404°C, Precipitation: 30.6204 cm
+Grain Height: 10.1948 cm, Number of Deer: 8, Number of Predators: 0
+Year: 2029, Month: 5
+Temperature: 30.9508°C, Precipitation: 25.8813 cm
+Grain Height: 0 cm, Number of Deer: 7, Number of Predators: 0
+Year: 2029, Month: 6
+Temperature: 30.2262°C, Precipitation: 9.79863 cm
+Grain Height: 0 cm, Number of Deer: 6, Number of Predators: 1
+Year: 2029, Month: 7
+Temperature: 28.8953°C, Precipitation: 3.27246 cm
+Grain Height: 0 cm, Number of Deer: 5, Number of Predators: 2
+Year: 2029, Month: 8
+Temperature: 16.2875°C, Precipitation: 3.25931 cm
+Grain Height: 0 cm, Number of Deer: 4, Number of Predators: 3
+Year: 2029, Month: 9
+Temperature: 14.5175°C, Precipitation: 2.59554 cm
+Grain Height: 0 cm, Number of Deer: 3, Number of Predators: 3
+Year: 2029, Month: 10
+Temperature: 5.96034°C, Precipitation: 9.18287 cm
+Grain Height: 11.201 cm, Number of Deer: 2, Number of Predators: 3
+Year: 2029, Month: 11
+Temperature: 8.80936°C, Precipitation: 9.75334 cm
+Grain Height: 17.3703 cm, Number of Deer: 3, Number of Predators: 1
