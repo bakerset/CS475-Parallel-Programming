@@ -1,0 +1,31 @@
+# Build outputs
+*.o
+*.obj
+*.exe
+project1/proj1
+project2/proj2
+project2copy/proje2
+project3/proj3
+project4/proj4
+project5/proj5
+project6/proj06
+project7/proj7
+
+# Large generated/input datasets kept out of the portfolio commit
+project6/p6.data
+project7/bigsignal.bin
+project7/bigsignal.txt
+
+# Generated benchmark and conversion outputs
+**/output.txt
+**/output.csv
+**/simulation_output.txt
+**/simulation_data.csv
+**/output_data.csv
+**/performance.csv
+**/plot.csv
+**/result.txt
+
+# Local editor/build metadata
+.vscode/
+**/.vscode/
